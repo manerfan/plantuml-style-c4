@@ -1,14 +1,14 @@
 @startuml class-sample
 
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+'!include http://plantuml.oss.manerfan.com/core.puml
 ' uncomment the following line and comment the first to use locally
-'!include core.puml
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/class-diagram-helper.puml
+!include core.puml
+'!include http://plantuml.oss.manerfan.com/class-diagram-helper.puml
 ' uncomment the following line and comment the first to use locally
-'!include class-diagram-helper.puml
+!include class-diagram-helper.puml
 
 
-GREY_ARROW
+GREEN_ARROW()
 
 abstract class BaseClass {
     +  AbstractMethod() : void
@@ -28,7 +28,8 @@ interface "IInterfaceA`1"<T> {
 class ImplementClass {
     + Value : int <<get>>
 }
-BaseClass <|-- SubClass
+
+GeneralizeBack(BaseClass, SubClass, "")
 IInterfaceA <|-- "IInterfaceA`1"
 "IInterfaceA`1" "<int>" <|-- ImplementClass
 

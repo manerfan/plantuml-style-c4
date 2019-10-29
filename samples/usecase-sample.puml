@@ -1,12 +1,14 @@
 @startuml usecase-sample
-!includeurl https://raw.githubusercontent.com/xuanye/plantuml-style-c4/master/core.puml
+'!include http://plantuml.oss.manerfan.com/core.puml
 ' uncomment the following line and comment the first to use locally
-'!include core.puml
+!include core.puml
+
+MEGENTA_ARROW()
 
 ' 设置方向
-LAYOUT_LEFT_RIGHT
-'LAYOUT_TOP_DOWN
-'LAYOUT_AS_SKETCH
+'LAYOUT_LEFT_RIGHT()
+LAYOUT_TOP_DOWN()
+LAYOUT_AS_SKETCH()
 
 
 actor customer
