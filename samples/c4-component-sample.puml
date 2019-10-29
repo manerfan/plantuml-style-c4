@@ -1,7 +1,7 @@
 @startuml component-diagram
-'!include http://plantuml.oss.manerfan.com/c4_component.puml
+!include http://plantuml.oss.manerfan.com/c4_component.puml
 ' uncomment the following line and comment the first to use locally
-!include c4_component.puml
+'!include c4_component.puml
 
 LAYOUT_WITH_LEGEND_CN()
 LAYOUT_AS_SKETCH()

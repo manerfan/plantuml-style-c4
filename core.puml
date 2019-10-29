@@ -1,11 +1,11 @@
 @startuml core
-'!include http://plantuml.oss.manerfan.com/colors.puml
+!include http://plantuml.oss.manerfan.com/colors.puml
 ' uncomment the following line and comment the first to use locally
-!include colors.puml
+'!include colors.puml
 
-'!include http://plantuml.oss.manerfan.com/skinparam.puml
+!include http://plantuml.oss.manerfan.com/skinparam.puml
 ' uncomment the following line and comment the first to use locally
-!include skinparam.puml
+'!include skinparam.puml
 
 !TECHN_FONT_SIZE = 12 
 

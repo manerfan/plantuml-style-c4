@@ -1,8 +1,8 @@
 @startuml c4-theme-default
 
-'!include http://plantuml.oss.manerfan.com/colors.puml
+!include http://plantuml.oss.manerfan.com/colors.puml
 ' uncomment the following line and comment the first to use locally
-!include colors.puml
+'!include colors.puml
 
 ' Colors
 ' ##################################

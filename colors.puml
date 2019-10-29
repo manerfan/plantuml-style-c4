@@ -1,8 +1,8 @@
 @startuml corlor-define
 
-'!include http://plantuml.oss.manerfan.com/material-colors.puml
+!include http://plantuml.oss.manerfan.com/material-colors.puml
 ' uncomment the following line and comment the first to use locally
-!include  material-colors.puml
+'!include  material-colors.puml
 ' Colors
 ' ##################################
 !Black          = '#222222'

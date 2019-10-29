@@ -1,11 +1,11 @@
 @startuml class-sample
 
-'!include http://plantuml.oss.manerfan.com/core.puml
+!include http://plantuml.oss.manerfan.com/core.puml
 ' uncomment the following line and comment the first to use locally
-!include core.puml
-'!include http://plantuml.oss.manerfan.com/class-diagram-helper.puml
+'!include core.puml
+!include http://plantuml.oss.manerfan.com/class-diagram-helper.puml
 ' uncomment the following line and comment the first to use locally
-!include class-diagram-helper.puml
+'!include class-diagram-helper.puml
 
 
 GREEN_ARROW()

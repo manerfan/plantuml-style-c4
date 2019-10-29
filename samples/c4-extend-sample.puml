@@ -1,7 +1,7 @@
 @startuml system-context-extend-diagram
-'!include http://plantuml.oss.manerfan.com/c4_context.puml
+!include http://plantuml.oss.manerfan.com/c4_context.puml
 ' uncomment the following line and comment the first to use locally
-!include c4_context.puml
+'!include c4_context.puml
 
 'LAYOUT_TOP_DOWN()
 'LAYOUT_AS_SKETCH()

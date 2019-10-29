@@ -1,7 +1,7 @@
 @startuml activity-new-sample
-'!include http://plantuml.oss.manerfan.com/core.puml
+!include http://plantuml.oss.manerfan.com/core.puml
 ' uncomment the following line and comment the first to use locally
-!include core.puml
+'!include core.puml
 
 GREEN_ARROW()
 
